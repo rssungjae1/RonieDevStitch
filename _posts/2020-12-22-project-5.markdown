@@ -11,7 +11,7 @@ category: Eclipse IDE, java 1.8, javascript 1.0, mysql 8.0
 description: jsp, tomcat, mysql을 이용한 restful api 만들기
 ---
 
-[git 바로가기](https://github.com/rssungjae1/java_lecture_evaluation)
+[git 바로가기](https://github.com/rssungjae1/Java-Lounge/tree/main/java_lecture_evaluation)
 
 ### 사용 기술
 * java 1.8
